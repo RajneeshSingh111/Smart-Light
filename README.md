@@ -7,18 +7,16 @@ The Smart Light is a centrally controlled IoT-enabled light bulb prototype desig
 ## Installation
 
 Arduino IDE Setup:
-
-Install Arduino IDE.
-Add ESP8266 boards to the Arduino IDE.
-Construct the circuit.
-Upload the code from Arduino IDE.
+- Install Arduino IDE.
+- Add ESP8266 boards to the Arduino IDE.
+- Construct the circuit.
+- Upload the code from Arduino IDE.
 Blynk Cloud and Dashboard Setup:
-
-Create an account on Blynk.
-Create a new project for your code.
-Add necessary virtual variables and corresponding widgets for the interface.
-Create a device under this project.
-Copy the Blynk template ID and insert it into the Arduino code.
+- Create an account on Blynk.
+- Create a new project for your code.
+- Add necessary virtual variables and corresponding widgets for the interface.
+- Create a device under this project.
+- Copy the Blynk template ID and insert it into the Arduino code.
     
 ## Usage/Examples
 
