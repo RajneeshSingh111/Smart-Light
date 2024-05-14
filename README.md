@@ -11,7 +11,6 @@ Arduino IDE Setup:
 - Add ESP8266 boards to the Arduino IDE.
 - Construct the circuit.
 - Upload the code from Arduino IDE.
-  
 Blynk Cloud and Dashboard Setup:
 - Create an account on Blynk.
 - Create a new project for your code.
@@ -28,7 +27,7 @@ Provide the SSID and password of the WiFi hotspot in the code, for example: char
 Connect your laptop to the internet.
 Log in to your Blynk account.
 Follow the installation steps provided above.
-```
+
 
 
 ## Authors
