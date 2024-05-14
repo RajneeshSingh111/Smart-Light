@@ -11,6 +11,7 @@ Arduino IDE Setup:
 - Add ESP8266 boards to the Arduino IDE.
 - Construct the circuit.
 - Upload the code from Arduino IDE.
+  
 Blynk Cloud and Dashboard Setup:
 - Create an account on Blynk.
 - Create a new project for your code.
